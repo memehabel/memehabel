@@ -65,7 +65,18 @@ SAP Modules:
 - SAP Ariba
 
 Additional Skills:
-- 
+- Analytics
+  - Descriptive Analytics
+  - Predictive Analytics
+  - Prescriptive Analytics
+  - Data Visualization
+  - Optimization
+  - Simulation Modeling
+  - Forecasting
+  - Regression Analysis
+  - Probability and Statistical Modeling
+  - Data Management
+  - Survey Machine Learning and Artificial Intelligence
 - Project Management
 - Cross-functional collaboration
 - Leadership
