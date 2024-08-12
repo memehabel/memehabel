@@ -15,7 +15,8 @@
 #### Pratt & Whitney: Global Supply Chain
 - Center of Excellence Intern
     - Automated supplier chargeback process for late deliveries and quality issues based on Long Term Agreement (LTA) terms via a live dashboard which pulls in data from over 30 sources on a daily basis.
-    - Tools utilized: SQL, QlikSense Development, Microsoft Excel, VBA, Confluence
+    - Learned Master Data protocols, completed SAP Bootcamp, and self-taught SQL/QlikSense Development.
+    - Tools utilized: SQL, QlikSense Development, Microsoft Excel, VBA, Confluence, SAP
       
  - Product Procurement Intern
     - Developed and deployed live automated line of balance system utilizing bill of materials, blueprints, lead times, and supplier commitments.
