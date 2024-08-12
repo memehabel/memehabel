@@ -21,7 +21,7 @@
  - Product Procurement Intern
     - Developed and deployed live automated line of balance system utilizing bill of materials, blueprints, lead times, and supplier commitments.
     - Led brainstorming, process mapping, and testing sessions with cross-functional teams.
-    - Tools utilized: SQL, Oracle, SAP, QlikSense Development, Metric Insights, Microsoft Projects, Microsoft Visio, Microsoft Excel, VBA
+    - Tools utilized: SQL, Oracle, SAP, QlikSense Development, Metric Insights, Microsoft Project, Microsoft Visio, Microsoft Excel, VBA
   
 - Indirect Procurement Analyst
   - Managed SAP Ariba system rollout to suppliers and led demonstrations.
@@ -31,5 +31,34 @@
 
 
 ### Skills
-SAP Modules :
+Technical:
+- R/Rstudio
+- Python
+- Tableau
+- QlikSense
+- SQL
+- Databricks
+- PySpark
+- Microsoft Office
+  - Excel
+  - VBA
+  - PowerPoint
+  - Word
+  - Outlook
+  - Project
+  - Visio
+  - Access
+  - OneDrive
+  - SharePoint
+  - OneNote
+
+SAP Modules:
+- SAP Materials Management (SAP MM)
+- SAP Quality Management (SAP QM)
+- SAP Production Planning (SAP PP)
+- SAP Business Warehouse (SAP BW)
+- SAP Concur
+- SAP Ariba
+
+
 
