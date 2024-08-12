@@ -1,6 +1,8 @@
 # Business and Data Analyst
 ![Habel_Portfolio_Photo](https://github.com/user-attachments/assets/c1fb26f5-332f-40af-a7c8-64dfb78c2b1c | width=100)
 
+<img src="https://github.com/user-attachments/assets/c1fb26f5-332f-40af-a7c8-64dfb78c2b1c" width="200" />
+
 ### Education
 
 #### Graduate
