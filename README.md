@@ -37,20 +37,24 @@ Technical:
 - Tableau
 - QlikSense
 - SQL
+- Oracle Databases
 - Databricks
 - PySpark
-- Microsoft Office
+- Arena Simulation Software
+- Microsoft
   - Excel
   - VBA
-  - PowerPoint
-  - Word
-  - Outlook
+  - SQL Server Management Studio
   - Project
   - Visio
   - Access
+  - PowerPoint
+  - Word
+  - Outlook
   - OneDrive
   - SharePoint
   - OneNote
+  - Teams
 
 SAP Modules:
 - SAP Materials Management (SAP MM)
