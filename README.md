@@ -32,7 +32,7 @@
 
 
 ### Skills
-Technical Skills:
+#### Technical Skills:
 - R/Rstudio
 - Python
 - Tableau
@@ -59,7 +59,7 @@ Technical Skills:
   - OneNote
   - Teams
 
-SAP Modules:
+#### SAP Modules:
 - SAP Materials Management (SAP MM)
 - SAP Quality Management (SAP QM)
 - SAP Production Planning (SAP PP)
@@ -67,7 +67,7 @@ SAP Modules:
 - SAP Concur
 - SAP Ariba
 
-Additional Skills:
+#### Additional Skills:
 - Analytics
   - Descriptive Analytics
   - Predictive Analytics
