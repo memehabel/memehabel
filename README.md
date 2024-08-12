@@ -31,7 +31,7 @@
 
 
 ### Skills
-Technical:
+Technical Skills:
 - R/Rstudio
 - Python
 - Tableau
@@ -64,5 +64,11 @@ SAP Modules:
 - SAP Concur
 - SAP Ariba
 
-
-
+Additional Skills:
+- 
+- Project Management
+- Cross-functional collaboration
+- Leadership
+- Process mapping
+- Continuous improvement
+- 
