@@ -41,6 +41,8 @@ Technical Skills:
 - Databricks
 - PySpark
 - Arena Simulation Software
+- MATLAB
+- LabVIEW
 - Microsoft
   - Excel
   - VBA
@@ -82,4 +84,5 @@ Additional Skills:
 - Leadership
 - Process mapping
 - Continuous improvement
-- 
+- Supplier relationship management
+  
