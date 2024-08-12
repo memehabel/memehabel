@@ -26,4 +26,10 @@
 - Indirect Procurement Analyst
   - Managed SAP Ariba system rollout to suppliers and led demonstrations.
   - Remidiated invoice discrepencies with in-depth analyses.
-  - Analyzed 
+  - Analyzed Master Service Agreement (MSA) data and related invoices for sourcing team to identify trends in spending by category.
+  - Tools utilized: SAP Ariba, SAP, RStudio, Microsoft Excel, VBA, QlikSense
+
+
+### Skills
+SAP Modules :
+
